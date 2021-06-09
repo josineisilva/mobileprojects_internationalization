@@ -1,0 +1,9 @@
+{
+    "app_title": "Application Title",
+    "main_title": "Hello World",
+    "button_en": "English",
+    "button_pt": "Portuguese",
+    "button_tooltip": "Increment",
+    "body_text": "You have pushed the button $1 times",
+    "body_text_once": "You have pushed the button once"
+}

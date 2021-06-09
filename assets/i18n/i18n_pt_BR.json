@@ -1,0 +1,9 @@
+{
+    "app_title": "Titulo da Aplicacao",
+    "main_title": "Alo Mundo",
+    "button_en": "Ingles",
+    "button_pt": "Portugues",
+    "button_tooltip": "Incremento",
+    "body_text": "Voce pressionou o botao $1 vezes",
+    "body_text_once": "Voce pressionou o botao uma vez"
+}
